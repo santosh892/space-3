@@ -11,8 +11,8 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 
 	do not share these files/folders if you want these information to remain private
-
-ppppppppppp
+ 
+ 
 
 16:53:24	Error: 	"Not Found" (404) at link https://bnbfaucetminer.online/$&/ (from https://bnbfaucetminer.online/static/js/2.a3fa520d.chunk.js)
 
