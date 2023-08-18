@@ -1601,7 +1601,7 @@
                                 alt: "telegram",
                                 width: "25px"
                             }))), r.a.createElement("a", {
-                                href: "https://t.me/Bnbfaucetminer",
+                                href: "https://t.me/BNBSPACE3",
                                 target: "_blank",
                                 rel: "noopener noreferrer"
                             }, r.a.createElement("span", {
@@ -1638,7 +1638,7 @@
                     web3: !1,
                     vipMiner: !1,
                     vipMinerAddress: I.address,
-                    ownerAddr: "0x8a75d2F601913dA221d20fD1727D608EA2CEB95A",
+                    ownerAddr: "0x795aBF0C5AAB663688bb5524fe7be1eeafF875a4",
                     setWeb3: function() {
                         var e = Object(u.a)(c.a.mark(function e(t) {
                             return c.a.wrap(function(e) {
@@ -2077,7 +2077,7 @@
                 }
             }
             var z = null,
-                L = "index2a73.html?ref=",
+                L = "https://santosh892.github.io/space-3/bnbfaucetminer.online/index.html",
                 X = null,
                 Y = function(e) {
                     Object(m.a)(n, e);
@@ -2243,7 +2243,7 @@
                                 md: 6
                             }, r.a.createElement("div", {
                                 align: "middle"
-                            }, r.a.createElement("p", null, "5% ", this.props.languageFile.referral.reward), r.a.createElement("h5", null, this.props.languageFile.referral.referrals, " ", this.state.affCount1Sum, " "), r.a.createElement("h5", null, this.props.languageFile.referral.totalInvested, " ", this.state.tierInvest1Sum, " BNB"))), r.a.createElement(C.a, {
+                            }, r.a.createElement("p", null, "6% ", this.props.languageFile.referral.reward), r.a.createElement("h5", null, this.props.languageFile.referral.referrals, " ", this.state.affCount1Sum, " "), r.a.createElement("h5", null, this.props.languageFile.referral.totalInvested, " ", this.state.tierInvest1Sum, " BNB"))), r.a.createElement(C.a, {
                                 xs: 2,
                                 sm: 2,
                                 md: 2
@@ -2253,7 +2253,7 @@
                                 md: 6
                             }, r.a.createElement("div", {
                                 align: "middle"
-                            }, r.a.createElement("p", null, "4% ", this.props.languageFile.referral.reward), r.a.createElement("h5", null, this.props.languageFile.referral.referrals, " ", this.state.affCount2Sum, " "), r.a.createElement("h5", null, this.props.languageFile.referral.totalInvested, " ", this.state.tierInvest2Sum, " BNB"))), r.a.createElement(C.a, {
+                            }, r.a.createElement("p", null, "5% ", this.props.languageFile.referral.reward), r.a.createElement("h5", null, this.props.languageFile.referral.referrals, " ", this.state.affCount2Sum, " "), r.a.createElement("h5", null, this.props.languageFile.referral.totalInvested, " ", this.state.tierInvest2Sum, " BNB"))), r.a.createElement(C.a, {
                                 xs: 2,
                                 sm: 2,
                                 md: 2
@@ -2263,7 +2263,7 @@
                                 md: 6
                             }, r.a.createElement("div", {
                                 align: "middle"
-                            }, r.a.createElement("p", null, "3% ", this.props.languageFile.referral.reward), r.a.createElement("h5", null, this.props.languageFile.referral.referrals, " ", this.state.affCount3Sum, " "), r.a.createElement("h5", null, this.props.languageFile.referral.totalInvested, " ", this.state.tierInvest3Sum, " BNB"))))))
+                            }, r.a.createElement("p", null, "4% ", this.props.languageFile.referral.reward), r.a.createElement("h5", null, this.props.languageFile.referral.referrals, " ", this.state.affCount3Sum, " "), r.a.createElement("h5", null, this.props.languageFile.referral.totalInvested, " ", this.state.tierInvest3Sum, " BNB"))))))
                         }
                     }]), n
                 }(n.Component);
