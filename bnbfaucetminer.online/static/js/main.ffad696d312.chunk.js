@@ -2077,7 +2077,7 @@
                 }
             }
             var z = null,
-                L = "https://santosh892.github.io/space-3/bnbfaucetminer.online/index.html",
+                L = "https://santosh892.github.io/space-3/bnbfaucetminer.online/index.html?ref=",
                 X = null,
                 Y = function(e) {
                     Object(m.a)(n, e);
